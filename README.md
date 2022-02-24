@@ -1,6 +1,6 @@
 ## Olá! Sejam bem-vindos ao meu perfil 😺
 
-- 🌱 Atualmente estudando Python
+- 🌱 Atualmente estudando Python e aprendendo GitHub
 - 📫 Contato: Rodrigo.ferrao@ufba.br
 
 
