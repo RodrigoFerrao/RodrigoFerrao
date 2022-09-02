@@ -1,6 +1,6 @@
 ## Olá! Sejam bem-vindos ao meu perfil 😺
 
-- 🌱 Atualmente estudando Python e aprendendo GitHub
+- 🌱 Atualmente estudando automação de testes, dando ênfase no cypress e selenium.
 - 📫 Contato: Rodrigo.ferrao@ufba.br
 
 <div align="center">
