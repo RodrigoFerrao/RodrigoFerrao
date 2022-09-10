@@ -2,6 +2,8 @@
 
 - 🌱 Atualmente estudando automação de testes, dando ênfase no cypress e selenium.
 - 📫 Contato: Rodrigo.ferrao@ufba.br
+- ⚙  Em manutenção
+
 
 <div align="center">
 <a href="https://github.com/RodrigoFerrao">
