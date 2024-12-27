@@ -1,7 +1,7 @@
 ## Olá! Sejam bem-vindos ao meu perfil 😺
 
-- 🌱 Atualmente estudando automação de testes, dando ênfase no cypress e selenium.
-- 📫 Contato: Rodrigo.ferrao@ufba.br
+- 🌱 Atualmente estudando automação de testes, dando ênfase em Cypress.
+- 📫 Contato: rodrigo.ferraotech@gmail.com
 - ⚙  Em manutenção
 
 
