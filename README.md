@@ -1,8 +1,10 @@
 ## Olá! Sejam bem-vindos ao meu perfil 😺
 
-- 🌱 Atualmente estudando automação de testes, dando ênfase em Cypress.
-- 📫 Contato: rodrigo.ferraotech@gmail.com
-- ⚙  Em manutenção
+- 🌱 Atualmente estudando:
+- Automação de Testes - Cypress
+- JavaScript
+- Testes de Performance - K6
+- 📫 Contacto: rodrigo.ferraotech@gmail.com
 
 
 <div align="center">
